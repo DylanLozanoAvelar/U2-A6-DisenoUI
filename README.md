@@ -20,8 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Links de Referencia
 - Youtube: https://www.youtube.com/watch?v=hRqPk-pH6y0
 
-## Resultado de la aplicacion
-![image](https://github.com/DylanLozanoAvelar/U2-A6-DisenoUI/assets/143743272/fb0a29c9-554a-429a-b487-aab4b67d370e)
+## Resultado de la aplicación 
+
 
 
 ![image](https://github.com/DylanLozanoAvelar/U2-A6-DisenoUI/assets/143743272/b430899d-b096-4e20-bd57-dd79ffe79824)
